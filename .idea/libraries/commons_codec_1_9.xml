@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="commons-codec-1.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/commons-codec-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/fluent-hc-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jna-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jna-platform-4.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

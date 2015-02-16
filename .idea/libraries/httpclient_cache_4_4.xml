@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="httpclient-cache-4.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/httpclient-cache-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/httpclient-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/httpclient-win-4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
